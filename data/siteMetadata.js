@@ -4,7 +4,7 @@ const siteMetadata = {
   author: 'Promise Njoku',
   headerTitle: 'Promsper',
   description:
-    'Promise Njoku is a software engineer and technical writer. He writes about software development, web development, and JavaScript.',
+    'Promise Njoku is a photography blooger.',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://promsper.vercel.app',
